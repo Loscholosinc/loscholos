@@ -1,0 +1,45 @@
+[16:44:53] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[16:44:55] [ServerMain/INFO]: Loaded 1515 recipes
+[16:44:55] [ServerMain/INFO]: Loaded 1617 advancements
+[16:44:55] [Server thread/INFO]: Starting minecraft server version 26.1.2
+[16:44:55] [Server thread/INFO]: Loading properties
+[16:44:55] [Server thread/INFO]: Default game type: SURVIVAL
+[16:44:55] [Server thread/INFO]: Generating keypair
+[16:44:55] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:44:56] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:44:56] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:44:56] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:44:56] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:44:56] [Server thread/INFO]: Preparing level "world"
+[16:44:56] [Server thread/INFO]: Loading 0 persistent chunks...
+[16:44:56] [Server thread/INFO]: Preparing spawn area: 100%
+[16:44:56] [Server thread/INFO]: Time elapsed: 15 ms
+[16:44:56] [Server thread/INFO]: Done (0.341s)! For help, type "help"
+[16:44:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:44:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:44:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:44:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:44:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:44:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:44:57] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16:45:48] [Server thread/INFO]: LenzGOTY[/10.59.202.190:55321] logged in with entity id 51 at (-766.1598906602484, 112.0, -721.4644262849389)
+[16:45:48] [Server thread/INFO]: LenzGOTY joined the game
+[17:04:34] [Server thread/INFO]: LenzGOTY lost connection: Timed out
+[17:04:34] [Server thread/INFO]: LenzGOTY left the game
+[17:05:34] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[17:07:15] [Server thread/INFO]: LenzGOTY[/10.59.202.190:64317] logged in with entity id 3087 at (-764.2746352964476, 113.0, -721.2975339040643)
+[17:07:15] [Server thread/INFO]: LenzGOTY joined the game
+[17:32:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7368ms or 147 ticks behind
+[17:45:32] [Server thread/INFO]: LenzGOTY lost connection: Disconnected
+[17:45:32] [Server thread/INFO]: LenzGOTY left the game
+[17:45:40] [Server thread/INFO]: Stopping the server
+[17:45:40] [Server thread/INFO]: Stopping server
+[17:45:40] [Server thread/INFO]: Saving players
+[17:45:40] [Server thread/INFO]: Saving worlds
+[17:45:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:45:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:45:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:45:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:45:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:45:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:45:47] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

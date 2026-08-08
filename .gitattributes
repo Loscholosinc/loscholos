@@ -1,0 +1,2 @@
+*.jar filter=lfs diff=lfs merge=lfs -text
+servidor_minecraft/world/** filter=lfs diff=lfs merge=lfs -text
